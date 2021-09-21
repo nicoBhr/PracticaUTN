@@ -1,0 +1,6 @@
+body{
+    color: rgb(32, 221, 57);
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: dashed 2px yellow
+}
